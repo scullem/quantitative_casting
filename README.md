@@ -10,7 +10,7 @@ This project was completed as a two week assignment for the Metis Data Science B
 * Select best performing model based on test & train error and adjusted R squared
 * Apply findings to selecting casting for films
 
-The code for webscraping and data cleaning can be found in the file: [02_luther_data_collection_scullem_v2.ipynb](https://github.com/scullem/quantitative_casting/blob/master/02_luther_data_collection_scullem_v2.ipynb) 
+The code for web scraping and data cleaning can be found in the file: [02_luther_data_collection_scullem_v2.ipynb](https://github.com/scullem/quantitative_casting/blob/master/02_luther_data_collection_scullem_v2.ipynb) <br>
 The code for running the models and comparing model diagnostics can be found in the file: [02_luther_dtg_ols_scullem.ipynb](https://github.com/scullem/quantitative_casting/blob/master/02_luther_dtg_ols_scullem.ipynb.ipynb) 
 
 See the presentation below for a summary of findings:
@@ -22,8 +22,8 @@ alt="Link to SlideShare Presentation" width="386.1" height="320.1" border="10" /
 
 # Further Investigation
 * Explore improvement to scoring methodology: * Account for the effect of inflation on Domestic Total Gross over time 
-..* Weight recent film history of Domestic Total Gross more heavily
-..* Account for differences in the number of Actors listed in a film
-..* Identify alternative non-monetary scoring that influences the financial success of a film
-..* Expand to other genres in order to run model on a larger dataset (project limited to comedies from 2000-present)
-..* Identify supplementary data sources for films and actors
+  * Weight recent film history of Domestic Total Gross more heavily
+  * Account for differences in the number of Actors listed in a film
+  * Identify alternative non-monetary scoring that influences the financial success of a film
+  * Expand to other genres in order to run model on a larger dataset (project limited to comedies from 2000-present)
+  * Identify supplementary data sources for films and actors
