@@ -21,9 +21,11 @@ alt="Link to SlideShare Presentation" width="386.1" height="320.1" border="10" /
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/i11rWtIsf2q0BD" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/scullem/quantitative-approach-to-casting" title="Quantitative approach to casting" target="_blank">Quantitative approach to casting</a> </strong> from <strong><a href="//www.slideshare.net/scullem" target="_blank">Sarah Cullem</a></strong> </div>
 
 # Further Investigation
-* Explore improvement to scoring methodology: * Account for the effect of inflation on Domestic Total Gross over time 
+* Explore improvement to scoring methodology:
+  * Account for the effect of inflation on Domestic Total Gross over time 
   * Weight recent film history of Domestic Total Gross more heavily
   * Account for differences in the number of Actors listed in a film
   * Identify alternative non-monetary scoring that influences the financial success of a film
-  * Expand to other genres in order to run model on a larger dataset (project limited to comedies from 2000-present)
-  * Identify supplementary data sources for films and actors
+* Expand to other genres in order to run model on a larger dataset (project limited to comedies from 2000-present)
+* Identify supplementary data sources for films and actors
+* Compare models using regularization
