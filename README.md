@@ -10,7 +10,7 @@ This project was completed as a two week assignment for the Metis Data Science B
 * Select best performing model based on test & train error and adjusted R squared
 * Apply findings to selecting casting for films
 
-The code for webscraping and data cleaning can be found in the file: 02_luther_data_collection_scullem_v2.ipynb
+The code for webscraping and data cleaning can be found in the file: <a href = "https://github.com/scullem/quantitative_casting/blob/master/02_luther_data_collection_scullem_v2.ipynb" 02_luther_data_collection_scullem_v2.ipynb /a>
 The code for running the models and comparing model diagnostics can be found in the file: 02_luther_dtg_ols_scullem.ipynb 
 
 See the presentation below for a summary of findings:
